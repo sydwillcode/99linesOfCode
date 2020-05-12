@@ -1,0 +1,18 @@
+body {
+        background: rgb(198, 180, 199);
+        color: white;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;;
+    color: white;
+    text-align: center;
+}
+.friend {
+    background: rgb(131, 126, 167);
+    
+    
+}
+
+h3 {
+    text-transform: uppercase;
+}
